@@ -1,0 +1,15 @@
+
+:root{
+    /*colors*/
+    --light-sand : rgb(242, 220, 207);
+    --med-sand : rgb(223, 174, 144);
+    --lightest-blue : rgb(229, 240, 239);
+    --light-blue : rgb(97, 167, 158);
+    --med-blue : rgb(1, 124, 122);
+    --dark-blue : rgb(1, 94, 103); 
+    --darkest-blue : rgb(0, 39, 41);
+    --dark-green: rgb(22, 56, 5);
+    --med-green: rgb(76, 142, 6);
+    --bright-green : rgb(115, 216, 2);
+
+}

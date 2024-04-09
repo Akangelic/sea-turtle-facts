@@ -1,0 +1,19 @@
+
+@import 'modules/_vars.css';
+@import 'modules/_header.css';
+@import 'modules/_background-video.css';
+@import 'modules/_container.css';
+@import 'modules/_facts.css';
+@import 'modules/_footer.css';
+@import 'modules/_myrtle-the-turtle.css'; 
+
+
+
+body {
+    background: var(--light-sand) ;
+    font-family: 'Lexend', sans-serif;
+}
+a{
+   text-decoration: none;
+}
+

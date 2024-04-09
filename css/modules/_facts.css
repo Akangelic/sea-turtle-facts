@@ -1,0 +1,20 @@
+.facts-title{
+    color: var(--lightest-blue);
+    text-transform: capitalize;
+    letter-spacing: 0.1rem;
+    font-size: 1.2rem;
+  }
+
+  .facts-p{
+    color: var(--darkest-blue);
+    font-size: 1rem;
+    font-weight: 300;
+    letter-spacing: normal;
+  }
+ 
+
+  @media (min-width: 576px){
+    .facts-title{
+        font-size: 1.5rem;
+    }
+  }
